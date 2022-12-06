@@ -1,0 +1,11 @@
+body {
+    background-image: url(pex.jpg);
+    background-size: cover;
+}
+
+.title {
+    font-family: sarif;
+    font-size: 85px;
+    text-align: center;
+    color: red;
+}
